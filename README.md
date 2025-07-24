@@ -1,12 +1,12 @@
 ## ⚡ Yo, I’m Dev
 
 I'm currently in my final year of MScIT and I love building things that are useful and scalable.  
-One of my key projects is a **production-level SaaS** that automates cold outreach for freshers and students looking for jobs and internships fully built by me from scratch.
+One of my key projects is a **production-level SaaS(https://coldreach.in)** that automates cold outreach for freshers and students looking for jobs and internships fully built by me from scratch.
 
 I'm actively exploring opportunities in **Frontend**, **Full Stack**, **Software Engineering**, and **DevOps** roles.
 
 
-### 💻 What I Speak Fluently
+### 💻 Tech Stack:
 - HTML (yeah, the real OG)
 - CSS / Tailwind (don’t @ me, I love utility classes)
 - JavaScript / React / Next.js (my daily fuel)
@@ -16,7 +16,7 @@ I'm actively exploring opportunities in **Frontend**, **Full Stack**, **Software
 - Python
 
 ### ⚙️ Currently Juggling
-- Learning **React Native** – mobile is the next frontier 🚀
+- Learning **React Native** mobile is the next frontier 🚀
 - Scaling up my SaaS
 - DevOps
 
@@ -35,18 +35,7 @@ No templates. No fluff. Just results.
 
 ### 🔧 My Stack (Visual Vibes Only)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" title="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" title="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" title="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" title="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" title="SQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" title="Tailwind" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" title="Git" />
-</div>
-
----
+<br/>
 
 ### 📊 Real Devs Show Graphs
 
