@@ -33,8 +33,6 @@ No templates. No fluff. Just results.
 
 ---
 
-### 🔧 My Stack (Visual Vibes Only)
-
 <br/>
 
 ### 📊 Real Devs Show Graphs
