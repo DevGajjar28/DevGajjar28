@@ -1,52 +1,76 @@
-<h2 align="left">Hi 👋!</h2>
-<h3> I'm Dev, a frontend engineer. </h3>
-<li>currently learning React Native</li>
+## ⚡ Yo, I’m Dev
 
-###
+I'm currently in my final year of MScIT and I love building things that are useful and scalable.  
+One of my key projects is a **production-level SaaS** that automates cold outreach for freshers and students looking for jobs and internships fully built by me from scratch.
 
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevGajjar28&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+I'm actively exploring opportunities in **Frontend**, **Full Stack**, **Software Engineering**, and **DevOps** roles.
 
 
-###
-<h2>✍️ Languages</h2>
+### 💻 What I Speak Fluently
+- HTML (yeah, the real OG)
+- CSS / Tailwind (don’t @ me, I love utility classes)
+- JavaScript / React / Next.js (my daily fuel)
+- Node.js / MongoDB (backend, but make it snappy)
+- SQL (I can join more than just tables 😉)
+- Java / C / C++ (academia made me, not mad about it)
+- Python
 
+### ⚙️ Currently Juggling
+- Learning **React Native** – mobile is the next frontier 🚀
+- Scaling up my SaaS
+- DevOps
+
+---
+
+### 🚀 My SaaS – ColdReach
+
+> Built for students. Used by students.  
+> It auto-sends smart, personalized emails to HRs for jobs & internships.  
+> Think of it like your placement buddy who *never sleeps*.
+
+Stack: `React` + `Node` + `Mongo` + `Tailwind` + `Cloudinary`  
+No templates. No fluff. Just results.
+
+---
+
+### 🔧 My Stack (Visual Vibes Only)
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
-
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" title="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" title="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" title="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" title="SQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" title="Tailwind" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" title="Git" />
 </div>
 
+---
+
+### 📊 Real Devs Show Graphs
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=DevGajjar28&layout=compact&theme=radical&langs_count=6)
+![Dev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevGajjar28&show_icons=true&theme=radical)
+
+---
+
+### 🎯 Goals (No Fluff)
+- ✅ Ship real things, not just todo apps
+- 🔄 Automate boring stuff
+- 🌍 Contribute to open source (on the roadmap)
+
+---
+
+### 🧠 I Know My Basics
+
+> CS Core: `DSA` • `DBMS` • `Operating Systems` • `OOPs` • `Agile Method`  
+> Not just buzzwords :- I’ve written code that proves it.
+
+---
+
 ###
-### 🛠 Tech Stack and Tools
 
-| End                                                                  | Stack                                                                                                                                                                                                                                                                                                                       |
-| -------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Frontend](https://img.shields.io/badge/-Frontend-black?style=flat) | ![React](https://img.shields.io/badge/-React-52BAD7?style=flat&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) ![MUI](https://img.shields.io/badge/-MUI-007FFF?style=flat&logo=mui&logoColor=white) ![Chakra UI](https://img.shields.io/badge/-Chakra_UI-319795?style=flat&logo=chakra-ui&logoColor=white) |
-| ![Backend](https://img.shields.io/badge/-Backend-black?style=flat)   | ![Node](https://img.shields.io/badge/-Node-white?style=flat&logo=node.js) ![mongoDB](https://img.shields.io/badge/-mongoDB-white?style=flat&logo=mongodb)                                                                                                                                                                   |
-| ![Workflow](https://img.shields.io/badge/-Workflow-black?style=flat) | ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)                                                                                                                                                                            |
-
-
-
-
-###
 
 
 <br clear="both">
