@@ -1,9 +1,7 @@
-## ⚡ Yo, I’m Dev
+## ⚡ Hi, I’m Dev
 
 I'm currently in my final year of MScIT and I love building things that are useful and scalable.  
 One of my key projects is a **production-level SaaS(https://coldreach.in)** that automates cold outreach for freshers and students looking for jobs and internships fully built by me from scratch.
-
-I'm actively exploring opportunities in **Frontend**, **Full Stack**, **Software Engineering**, and **DevOps** roles.
 
 
 ### 💻 Tech Stack:
@@ -14,6 +12,10 @@ I'm actively exploring opportunities in **Frontend**, **Full Stack**, **Software
 - SQL (I can join more than just tables 😉)
 - Java / C / C++ (academia made me, not mad about it)
 - Python
+- AWS(EC2, IAM, Secret Manager, Cognito, S3, Load Balancer), GCP
+- Microservices, infrastructure
+- Apache, Linux
+- Gen AI
 
 ### ⚙️ Currently Juggling
 - Learning **React Native** mobile is the next frontier 🚀
