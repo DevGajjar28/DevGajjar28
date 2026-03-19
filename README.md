@@ -5,15 +5,15 @@ One of my key projects is a **production-level SaaS(https://coldreach.in)** that
 
 
 ### 💻 Tech Stack:
-- HTML (yeah, the real OG)
-- CSS / Tailwind (don’t @ me, I love utility classes)
-- JavaScript / React / Next.js (my daily fuel)
+- HTML / CSS / Tailwind
+- JavaScript / React / Next.js 
 - Node.js / MongoDB (backend, but make it snappy)
 - SQL (I can join more than just tables 😉)
 - Java / C / C++ (academia made me, not mad about it)
 - Python
-- AWS(EC2, IAM, Secret Manager, Cognito, S3, Load Balancer), GCP
+- AWS(EC2, IAM, Secret Manager, Cognito, S3, Load Balancer), GCP, Azure
 - Microservices, infrastructure
+- Distributed Systems
 - Apache, Linux
 - Gen AI
 
@@ -49,12 +49,6 @@ No templates. No fluff. Just results.
 - 🔄 Automate boring stuff
 - 🌍 Contribute to open source (on the roadmap)
 
----
-
-### 🧠 I Know My Basics
-
-> CS Core: `DSA` • `DBMS` • `Operating Systems` • `OOPs` • `Agile Method`  
-> Not just buzzwords :- I’ve written code that proves it.
 
 ---
 
