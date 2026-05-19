@@ -8,18 +8,18 @@ One of my key projects is a **production-level SaaS(https://coldreach.in)** that
 - HTML / CSS / Tailwind
 - JavaScript / React / Next.js 
 - Node.js / MongoDB (backend, but make it snappy)
-- SQL (I can join more than just tables 😉)
+- SQL / PostgreSQL  (I can join more than just tables 😉)
 - Java / C / C++ (academia made me, not mad about it)
 - Python
 - AWS(EC2, IAM, Secret Manager, Cognito, S3, Load Balancer), GCP, Azure
 - Microservices, infrastructure
 - Distributed Systems
-- Apache, Linux
+- Apache,
 - Gen AI
 
 ### ⚙️ Currently Juggling
-- Learning **React Native** mobile is the next frontier 🚀
-- Scaling up my SaaS
+- Learning **orchestrator** is the next frontier 🚀
+- Clode Infrastructure
 - DevOps
 
 ---
